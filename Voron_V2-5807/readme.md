@@ -4,7 +4,7 @@ All of the things related to my Voron 2.4 Printer - Serial # 5807
 This is a build based on the Magic Phoenix CBT kit that I originally built in 2022
 
 Current Features/Upgrades: 
-  300x300mm Build Plate
+  <br>300x300mm Build Plate
   Full bed 120v 300w Heater
   CAN Bus 
   BTT M8P Controller w/ CM4 SBC
