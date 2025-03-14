@@ -5,9 +5,9 @@ This is a build based on the Magic Phoenix CBT kit that I originally built in 20
 
 Current Features/Upgrades: 
   <br>300x300mm Build Plate
-  Full bed 120v 300w Heater
-  CAN Bus 
-  BTT M8P Controller w/ CM4 SBC
+  <br>Full bed 120v 300w Heater
+  <br>CAN Bus 
+  <br>BTT M8P Controller w/ CM4 SBC
   SB2209 Toolhead Board
   Voron Revo Hot end 
   Cartographer w/ Touch
