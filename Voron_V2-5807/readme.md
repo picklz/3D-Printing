@@ -10,7 +10,7 @@ Current Features/Upgrades:
   <br>BTT M8P Controller w/ CM4 SBC
 <br>SB2209 Toolhead Board
 <br>Voron Revo Hot end 
-<br>Cartographer w/ Touch
+<br>Cartographer w/ Touch and CNC Mount
 <br>FilamATrix Toolhead Filamnet Cutter w/ Filament Sensors 
 <br>AT Nozzle Brush Holder w/ A1 Brush (Part of the AFC / Box Turtle Project) 
 <br>Steve Builds Angled FIlament passthrough rear panel 
